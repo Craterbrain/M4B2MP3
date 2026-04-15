@@ -20,8 +20,7 @@ M4B2MP3 relies on the following external tools which must be installed and avail
 
 ### Download
 You can find the latest pre-compiled binaries here:
-Download Latest Release
-
+[Download Latest Release](https://github.com/Craterbrain/M4B2MP3/releases/tag/release)
 ### Build from Source
 Ensure you have Rust installed, then:
 
